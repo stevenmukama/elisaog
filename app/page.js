@@ -4,7 +4,7 @@ export default function Home() {
   return (
 <main className="flex h-screen items-center justify-center bg-black">
   <div className="flex h-4/5 w-2/5 flex-col bg-gray-100">
-    <h1 className="mt-10 text-center text-blue text-4xl font-bold">MAIN TITLE HERE</h1>
+    <h1 className="mt-10 text-center text-black text-4xl font-bold">MAIN TITLE HERE</h1>
     <form className="mt-14 items-center justify-center p-5">
       <div className="flex">
         <input type="text" className="m-2 w-full border border-gray-400 p-2 text-black" placeholder="Enter your name" />
